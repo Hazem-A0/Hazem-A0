@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Hazem Ayman</h1>
 <h3 align="center">A passionate Ai engineer from Egypt</h3>
 
-- 🔭 I’m currently working on **Slam-algorithm**
+- 🔭 I’m currently working as **Computer Vision Intern**
 
 - 📫 How to reach me **hazemayman251@gmail.com**
 
